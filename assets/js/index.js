@@ -57,4 +57,4 @@ function getInput() {
 // Function Call backs
 heroButton();
 getInput();
- //Fuck these changes
+ //Fuck these change
